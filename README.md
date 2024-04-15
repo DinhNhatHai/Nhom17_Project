@@ -12,7 +12,8 @@
 
 ## GitHub Repository
 
-[Link to GitHub Repository](repository_url)
+[Link to GitHub Repository](https://github.com/DinhNhatHai/Nhom17_Project.git)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
@@ -22,7 +23,10 @@ Before you begin, ensure you have the following installed on your system:
 - Node.js
 - NPM/Yarn
 - Laravel CLI
-
+# 💻 Tech Stack:
+ ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+ ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ## Installation
 
 1. Clone the repository:
