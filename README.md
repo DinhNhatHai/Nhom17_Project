@@ -1,5 +1,18 @@
+<p align="center">
+  <img src="https://laravel.com/assets/img/components/logo-laravel.svg" width="400" alt="Laravel Logo">
+</p>
+
 # Blog App using PHP Laravel 10.0 with Filament and Livewire
 
+## Team Members
+
+- [Lê Nguyễn Đình Nguyên](https://github.com/dinhnguyen1812002)
+- [Đinh Nhật Hải](https://github.com/DinhNhatHai/Nhom17_Project)
+- [](link_to_github_profile)
+
+## GitHub Repository
+
+[Link to GitHub Repository](repository_url)
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
