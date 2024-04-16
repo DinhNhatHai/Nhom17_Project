@@ -8,7 +8,8 @@
 
 - [Lê Nguyễn Đình Nguyên](https://github.com/dinhnguyen1812002)
 - [Đinh Nhật Hải](https://github.com/DinhNhatHai/Nhom17_Project)
-- [](link_to_github_profile)
+- [Nguyễn Mạnh Tuấn](https://github.com/Nguyenmanhtuan2011065378)
+- [Phạm Chí Thanh](https://github.com/PCThanh025)
 
 ## GitHub Repository
 
